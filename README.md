@@ -4,5 +4,7 @@
 💞️ I’m looking to collaborate on I do not exactly know...<br>
 📫 How to reach me : calvin_lsy@163.com and https://grenzlinie.github.io/<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grenzlinie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grenzlinie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grenzlinie)](https://github.com/anuraghazra/github-readme-stats)
+
 
