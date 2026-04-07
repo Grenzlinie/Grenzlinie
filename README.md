@@ -5,10 +5,9 @@
 📫 How to reach me : calvin_lsy@163.com and https://grenzlinie.github.io/<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Grenzlinie" />
+  <img align="center" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Grenzlinie&show_icons=true" />
+  <img align="top" src="./profile/stats_icons.svg" />
 </a>
-
 
