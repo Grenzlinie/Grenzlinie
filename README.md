@@ -11,3 +11,4 @@
   <img align="top" src="./profile/stats_icons.svg" />
 </a>
 
+> Note: To include private stats, add a `GRS_TOKEN` repository secret (GitHub PAT with required scopes).
